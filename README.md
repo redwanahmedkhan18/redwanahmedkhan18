@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **LLM with codeelevate tech**
 
-- 🤝 I’m looking for help with **Advanced Chatbot for Customer Service**
+- 🤝 I’m looking for help with **Machine Learning, Deep Learning,Computer Vision, Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://redwan-ahmed-khan.netlify.app/](https://redwan-ahmed-khan.netlify.app/)
 
